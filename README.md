@@ -33,6 +33,8 @@ https://docs.github.com/ja/free-pro-team@latest/github/managing-files-in-a-repos
 
 https://techacademy.jp/magazine/10271
 
+https://qiita.com/TetsuTaka/items/5ab227a8bd2cd7106833
+
 
 
 
