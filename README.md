@@ -25,3 +25,15 @@ washington.csv
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+https://techacademy.jp/magazine/10172
+
+
+https://docs.github.com/ja/free-pro-team@latest/github/managing-files-in-a-repository/renaming-a-file-using-the-command-line
+
+
+https://techacademy.jp/magazine/10271
+
+
+
+
+
