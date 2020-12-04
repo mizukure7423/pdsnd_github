@@ -109,7 +109,7 @@ def time_stats(df):
 
     # display the most common start hour
     common_hour = df['hour'].mode()[0]
-    print("The most common hour is: {}"  .format(common_hour))
+    print("The most common hour is: " + str(common_hour))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
@@ -128,7 +128,6 @@ def trip_duration_stats(df):
     # display mean travel time
     mean_time = df['Trip Duration'].mean()
     print("The mean travel time is: " + str(mean_time))
-
 
 
 def station_stats(df):
